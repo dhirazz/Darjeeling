@@ -6,8 +6,8 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  width: 100 vh;
-  height: 100 vh;
+  width: 100vh;
+  height: 100vh;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap");
@@ -111,7 +111,7 @@ div:nth-child(2) {
   /* display: flex; */
   width: 100px;
   height: 100px;
-  bottom: 20rem;
+  bottom: 10rem;
   left: 43rem;
 }
 @keyframes anime {
